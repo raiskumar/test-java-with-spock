@@ -8,6 +8,10 @@ Groovy is a dynamic programming languae similar to Python and Ruby which means i
 Spock can test any class that runs on JVM irrespective of the original source of code; so it works semlesly with Java as well as Groovy.
 
 ### How to test
+Spock is a one-stop shop when it comes to testing. It has built-in capabilities for mocking
+and stubbing (creating fake objects), allowing you to decide on the breadth of the
+testing context. Spock can test a single class, a code module, or a whole application
+context with ease. You can perform end-to-end testing with Spock
 $gradle test
 
 or
