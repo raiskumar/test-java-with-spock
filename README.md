@@ -8,9 +8,9 @@ Spock is not the xUnit of Groovy! It resembles higher-level testing frameworks,
 such as RSpec and Cucumber (https://github.com/cucumber/cucumber-jvm), that
 follow the concepts of BDD, instead of the basic setup-stimulate-assert style of xUnit.
 BDD attempts (among other things) to create a one-to-one mapping between business
-requirements and unit tests.
+requirements and unit tests.Spock comes with it's own built in mocking framework.
 
-Groovy is a dynamic programming languae similar to Python and Ruby which means it gives programmers power to defer several checks until runtime. Groovy is JVM language, i.e. it's source code compiles to byte code which executes on JVM. Spock resembles more with higher level testing frameworks like Cucumber and RSpec that follows concept of BDD, instead of setup-simulate-assert style of xUnit. Spock comes with it's own built in mocking framework.
+Groovy is a dynamic programming languae similar to Python and Ruby which means it gives programmers power to defer several checks until runtime. Groovy is JVM language, i.e. it's source code compiles to byte code which executes on JVM.
 Spock can test any class that runs on JVM irrespective of the original source of code; so it works semlesly with Java as well as Groovy.
 
 ### How to test
@@ -33,6 +33,7 @@ install plugin from local file system.
 
 ###imp links
 http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/
+
 https://www.pluralsight.com/guides/java-and-j2ee/introduction-to-testing-with-bdd-and-the-spock-framework
 
 One of the big highlights of Spock code is the lack of assert statements compared to
