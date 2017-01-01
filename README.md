@@ -22,7 +22,8 @@ requirements and unit tests.Spock comes with it's own built in mocking framework
 Spock is a one-stop shop when it comes to testing. It has built-in capabilities for mocking
 and stubbing (creating fake objects), allowing you to decide on the breadth of the
 testing context. Spock can test a single class, a code module, or a whole application
-context with ease. You can perform end-to-end testing with Spock
+context with ease. You can perform end-to-end testing with Spock.
+
 $gradle test
 
 or
