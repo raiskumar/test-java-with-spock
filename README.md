@@ -7,6 +7,8 @@ Spock can test any class that runs on JVM irrespective of the original source of
 
 
 ## About Spock
+Spock is a testing framework writing in Groovy , which means that it runs on the Java Virtual Machine (JVM) and let you test code written in any of the languages the JVM supports.
+
 ###Spock link : https://github.com/spockframework/spock
 
 Spock is not the xUnit of Groovy! It resembles higher-level testing frameworks,
