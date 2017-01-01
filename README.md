@@ -1,6 +1,11 @@
 # test-java-with-spock
 This is a Gradle project which shows the power and simplicity of Spock for testing Java.
 
+## Groovy
+Groovy is a dynamic programming languae similar to Python and Ruby which means it gives programmers power to defer several checks until runtime. Groovy is JVM language, i.e. it's source code compiles to byte code which executes on JVM.
+Spock can test any class that runs on JVM irrespective of the original source of code; so it works semlesly with Java as well as Groovy.
+
+
 ## About Spock
 ###Spock link : https://github.com/spockframework/spock
 
@@ -10,8 +15,6 @@ follow the concepts of BDD, instead of the basic setup-stimulate-assert style of
 BDD attempts (among other things) to create a one-to-one mapping between business
 requirements and unit tests.Spock comes with it's own built in mocking framework.
 
-Groovy is a dynamic programming languae similar to Python and Ruby which means it gives programmers power to defer several checks until runtime. Groovy is JVM language, i.e. it's source code compiles to byte code which executes on JVM.
-Spock can test any class that runs on JVM irrespective of the original source of code; so it works semlesly with Java as well as Groovy.
 
 ## How to test
 Spock is a one-stop shop when it comes to testing. It has built-in capabilities for mocking
