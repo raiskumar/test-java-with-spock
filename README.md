@@ -4,7 +4,7 @@ This is a Gradle project which shows the power and simplicity of Spock for testi
 ## About Spock
 ###Spock link : https://github.com/spockframework/spock
 
-But Spock is not the xUnit of Groovy! It resembles higher-level testing frameworks,
+Spock is not the xUnit of Groovy! It resembles higher-level testing frameworks,
 such as RSpec and Cucumber (https://github.com/cucumber/cucumber-jvm), that
 follow the concepts of BDD, instead of the basic setup-stimulate-assert style of xUnit.
 BDD attempts (among other things) to create a one-to-one mapping between business
