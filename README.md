@@ -3,6 +3,16 @@ gradle project which shows how can we test java with spock
 
 ###Spock link : https://github.com/spockframework/spock
 
+### How to test
+$gradle test
+or
+$sh gradlew test
+
+### Install spock plugin in intellig
+Download plugin from https://plugins.jetbrains.com/idea/plugin/7114-spock-framework-enhancements
+GO to File -> Settings -> plugin
+install plugin from local file system.
+
 ###imp links
 http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/
 https://www.pluralsight.com/guides/java-and-j2ee/introduction-to-testing-with-bdd-and-the-spock-framework
