@@ -41,6 +41,8 @@ Get high level idea of Spock : https://www.pluralsight.com/guides/java-and-j2ee/
 
 http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/
 
+Java Testing with Spock (Mannig book) https://github.com/kkapelon/java-testing-with-spock
+
 Groovy source code is usually placed in the src/test/groovy
 folder so that the Groovy compiler plugin can find it. All your Spock tests can go into
 this directory without affecting your existing JUnit tests located in src/test/java
